@@ -190,7 +190,7 @@ textarea {
 }
 
 .sliding-background {
-  background: url("./img/background.png") repeat-x;
+  background: url("../img/background.png") repeat-x;
   height: 100vh;
   width: 5708px;
   animation: slide 60s linear infinite;
@@ -245,6 +245,15 @@ textarea {
 
 #gamebanana::before {
   content: '\f2d5';
+  font: var(--fa-font-brands);
+}
+
+#github {
+  top: 76%;
+}
+
+#github::before {
+  content: '\f09b';
   font: var(--fa-font-brands);
 }
 

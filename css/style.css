@@ -222,7 +222,7 @@ textarea {
 }
 
 #twitter {
-  top: 58%;
+  top: 64%;
 }
 
 #twitter::before {
@@ -231,7 +231,7 @@ textarea {
 }
 
 #youtube {
-  top: 64%;
+  top: 58%;
 }
 
 #youtube::before {
@@ -240,7 +240,7 @@ textarea {
 }
 
 #gamebanana {
-  top: 70%;
+  top: 76%;
 }
 
 #gamebanana::before {
@@ -249,7 +249,7 @@ textarea {
 }
 
 #github {
-  top: 76%;
+  top: 70%;
 }
 
 #github::before {

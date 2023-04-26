@@ -190,7 +190,7 @@ textarea {
 }
 
 .sliding-background {
-  background: url("file:///C:/Users/asing/Documents/website/img/background.png") repeat-x;
+  background: url("./img/background.png") repeat-x;
   height: 100vh;
   width: 5708px;
   animation: slide 60s linear infinite;

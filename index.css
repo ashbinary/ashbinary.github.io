@@ -30,6 +30,9 @@ body {
     flex-direction: row;
     align-items: center;
 }
+.image {
+    width: 300px;
+}
 .textbox {
     padding: 2px;
     color:rgb(76, 183, 156);
@@ -41,11 +44,11 @@ body {
     .row-container {
         flex-direction: column;
     }
-    .container {
-        padding: 20px
-    }
     .image {
-        padding: 0px
+        width: 200px;
+    }
+    .spotifybox {
+        padding: 20px;
     }
 }
 .spotifybox {

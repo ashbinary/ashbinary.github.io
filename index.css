@@ -54,7 +54,8 @@ body {
 .spotifybox {
     animation: 1.05s cubic-bezier(0, 0.55, 0.45, 1) 0s 1 siteLoadTransition_spotifyBox;
 }
-a {
+
+.a-class {
     color: #fff;
     text-decoration: none; 
     padding: 5px 10px; 
@@ -66,7 +67,7 @@ a {
     transition: all 0.3s ease; 
     display: inline-block; 
 }
-a:hover {
+.a-class:hover {
     background-color: rgb(76, 183, 156); 
     transform: scale(1.1);
 }
